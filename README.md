@@ -57,9 +57,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrahman&show_icons=true&locale=en" alt="abdurrahman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahman&" alt="abdurrahman" /></p>
 
 
 
