@@ -11,7 +11,7 @@
 
 
 
-![MD-Abdurrahmans's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MD-Abdurrahmans&theme=tokyonight&hide_border=true)
+![MD-Abdurrahmans's Stats](https://github-readme-stats.vercel.app/api?username=MD-Abdurrahmans&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 
 ![MD-Abdurrahmans's Stats](https://github-readme-stats.vercel.app/api?username=MD-Abdurrahmans&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
