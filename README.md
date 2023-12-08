@@ -2,7 +2,7 @@
 
 
 
-<img src ='https://i.ibb.co/Hq1nZTg/coverGit.png' style={{width:'100%}}>
+<img src ='https://i.ibb.co/Hq1nZTg/coverGit.png'>
 
 
 <h1 align="center">Hi 👋, I'm Abdurrahman</h1>
