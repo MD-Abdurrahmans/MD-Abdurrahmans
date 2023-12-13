@@ -1,9 +1,10 @@
 
 
 
-
+<div align='center' width='100%'>
 
 <img src ='https://i.ibb.co/Hq1nZTg/coverGit.png'>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Abdurrahman</h1>
@@ -18,19 +19,62 @@ On the backend, as a junior developer , I specialize in MongoDB for database man
 
 
 
+<h2 align="left">About me</h2>
 
+###
+
+📚 I'm currently learning ...MERN STACK <br>🎯 Goals:  Full stack Senior Developer<br>🎲 Fun fact: ...Ludo</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+    <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" 
+   height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+
+  
+
+  
+  
+
+###
+
+
+<div align='center' width='100%'>
 
 ![MD-Abdurrahmans's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MD-Abdurrahmans&theme=tokyonight&hide_border=true)
 
+</div>
+
+
+
+
+
+<div align='center' width='100%'>
 
 ![MD-Abdurrahmans's Stats](https://github-readme-stats.vercel.app/api?username=MD-Abdurrahmans&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
+</div>
+
+
+
+
+<div align='center' width='100%'>
+
 ![MD-Abdurrahmans's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Abdurrahmans&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+</div>
 
 
-## Tech Steck 
-html , css , javaScript, React ,MongoDB Express 
+
+
 
 
 
@@ -79,9 +123,8 @@ and security included with jwt (token) .
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahman" alt="abdurrahman" /></a> </p>
+
 
 </p>
 
@@ -122,7 +165,6 @@ and security included with jwt (token) .
 - 📄 Know about my experiences [will be added](will be added)
 
 - ⚡ Fun fact **iam funny**
-
 
 
 
